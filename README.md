@@ -5,7 +5,7 @@
 <a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 
 :books:Sou professora de Matemática, Educação Financeira e Pensamento Computacional da SEED/PR.:pencil2:</p>
-:computer: Sou estudante de ADS e estou aprendendo a programar.:eyes::yellow_heart::
+:computer: Sou estudante de ADS e estou aprendendo a programar:eyes::yellow_heart:
 
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
