@@ -4,7 +4,7 @@
 * Meu e-mail é: trento.ana@escola.pr.gov.br. Caso precise me mandar um e-mail: 
 <a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
-:books:Sou professora de Matemática, Educação Financeira e Pensamento Computacional da SEED/PR.:pencil2:</p>
+:books:Sou professora de Matemática, Educação Financeira e Pensamento Computacional da SEED/PR. :pencil2:</p>
 :computer: Sou estudante de ADS e estou aprendendo a programar:eyes::yellow_heart:
 
 
